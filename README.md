@@ -15,5 +15,5 @@ Welcome to Angel's first repository
 5. Master web design
 6. Move onto back-end development
 
-Key takeaways:
+### Key takeaways:
 **My long-term goal is to become a full-stack dev with a handful of projects in my portfolio**
